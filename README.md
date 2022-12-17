@@ -1,7 +1,7 @@
 ![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif)
 
 <h1 align="center">Hello there 👋, I'm Shravan Kumar</h1>
-<h3 align="center">I'm a ever-curious cybersecurity student in my final year at Uni.</h3>
+<h3 align="center">I'm an ever-curious cybersecurity student in my final year at Uni.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 
